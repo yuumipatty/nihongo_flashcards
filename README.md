@@ -1,4 +1,4 @@
-# Nihongo Flashcar
+# Nihongo Flashcard
 
 ## Description
 
@@ -23,6 +23,19 @@ This project is a simple yet effective flashcard app designed to help users lear
    ```bash
    git clone https://github.com/yourusername/nihongo-flashcard.git
 
+Usage
+To use the Nihongo flashcard:
+
+Open the index.html file in your browser.
+Choose your study category (e.g., vocabulary, kanji).
+Flip through the flashcards and test your knowledge.
+Note: Features like spaced repetition and progress tracking will be added in future updates.
+
+To Do
+Implement spaced repetition algorithm.
+Add more study categories and levels (e.g., JLPT N2, N1).
+Implement progress tracking and review features.
+Improve UI design for better usability.
 
 ## Contributing
 Feel free to fork this repository, submit pull requests, and suggest improvements. Contributions are always welcome!
