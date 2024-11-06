@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn Japanese with Flashcards</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Learn Japanese with Flashcards</h1>
+        <div class="flashcards">
+            <div class="card" onclick="flipCard(this)">
+                <div class="front">
+                    <p class="japanese">こんにちは</p>
+                    <p class="romanji">Konnichiwa</p>
+                    <p class="english">Hello</p>
+                </div>
+                <div class="back">
+                    <p class="english">Hello</p>
+                </div>
+            </div>
+            <div class="card" onclick="flipCard(this)">
+                <div class="front">
+                    <p class="japanese">ありがとう</p>
+                    <p class="romanji">Arigatou</p>
+                    <p class="english">Thank you</p>
+                </div>
+                <div class="back">
+                    <p class="english">Thank you</p>
+                </div>
+            </div>
+            <div class="card" onclick="flipCard(this)">
+                <div class="front">
+                    <p class="japanese">お元気ですか</p>
+                    <p class="romanji">Ogenki desu ka</p>
+                    <p class="english">How are you?</p>
+                </div>
+                <div class="back">
+                    <p class="english">How are you?</p>
+                </div>
+            </div>
+            <!-- Add more cards here -->
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
