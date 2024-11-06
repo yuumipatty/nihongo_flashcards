@@ -1,4 +1,4 @@
-# Nihongo Flashcard Project
+# Nihongo Flashcar
 
 ## Description
 
